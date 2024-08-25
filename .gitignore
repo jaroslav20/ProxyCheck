@@ -1,0 +1,58 @@
+# Ignore directories and files created by the IDE
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env/
+.venv/
+.envrc
+venv.bak/
+venv.bak
+
+# Ignore files and directories associated with Python virtual environments
+venv/
+ENV/
+env/
+env.bak/
+env.bak/
+
+# Ignore PyCharm settings and data files
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Ignore files and directories created by test utilities and tools
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.log.*
+
+# Ignore local configurations and data
+*.local
+*.config
+
+# Ignore work environment files
+*.swp
+*~
+.sass-cache/
+Thumbs.db
+
+# Ignore temporary system files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Ignore files with working proxies
+working_http_proxies.txt
+working_socks5_proxies.txt
+proxy_list.txt
