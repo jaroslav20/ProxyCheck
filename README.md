@@ -54,6 +54,10 @@ This project is licensed under the MIT License. See the full license text in the
 
 Special thanks to the [TheSpeedX](https://github.com/TheSpeedX) community for providing the proxy lists and supporting open-source projects.
 
+## NOTES
+It is only for educational purposes. Neither i say nor i promote to do anything illegal.
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests and open issues if you have any ideas for improvements or if you encounter any bugs.
@@ -122,6 +126,9 @@ ProxyCheck использует библиотеку `requests` для выпо�
 ## Благодарности
 
 Особая благодарность сообществу [TheSpeedX](https://github.com/TheSpeedX) за предоставление списков прокси и поддержку open-source.
+
+## NOTES
+Это только в образовательных целях. Я не призываю не призываю делать что-либо противозаконное.
 
 ## Вклад
 
